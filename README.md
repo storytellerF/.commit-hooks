@@ -3,5 +3,5 @@
 ## Usage
 
 ```shell
-git submodule https://github.com/storytellerF/.commit-hooks.git .commit-hooks
+git submodule add https://github.com/storytellerF/.commit-hooks.git .commit-hooks
 ```
