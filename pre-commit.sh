@@ -1,1 +1,1 @@
-echo "Run hook successfully!"
+sh gradlew build connectedCheck
